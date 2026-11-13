@@ -64,14 +64,6 @@ motto: "Belajar sedikit demi sedikit, setiap hari."
 
 ---
 
-## 🌱 Sedang Dipelajari
-
-- 🔭 Web Development (JavaScript & TypeScript)
-- 🗄️ Database & SQL
-- 🐍 Python untuk Data & Automation
-
----
-
 ## 📫 Hubungi Saya
 
 <div>
