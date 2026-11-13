@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941E&center=true&vCenter=true&random=false&width=550&lines=Halo+%F0%9F%91%8B+saya+Agung+Krishnananda;Still+Learning+%F0%9F%93%9A+in+Progress...;Software+Developer+from+Bali+%F0%9F%87%AE%F0%87%A9" alt="Typing SVG" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941E&center=true&vCenter=true&random=false&width=550&lines=Halo+%F0%9F%91%8B+saya+Agung+Krishnananda;Still+Learning+%F0%9F%93%9A+in+Progress...;Software+Developer+from+Bali+%F0%9F%87%AE%F0%87%A9" alt="Typing SVG" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -30,7 +30,7 @@ motto: "Belajar sedikit demi sedikit, setiap hari."
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -41,17 +41,17 @@ motto: "Belajar sedikit demi sedikit, setiap hari."
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agungkrishna-code&show_icons=true&count_private=true&theme=tokyonight&rank_icon=percent" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agungkrishna-code&theme=tokyonight" alt="GitHub stats"/>
   &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkrishna-code&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agungkrishna-code&theme=tokyonight" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agungkrishna-code&theme=tokyonight" alt="GitHub streak stats" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=agungkrishna-code&theme=tokyonight" alt="GitHub streak stats" width="70%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agungkrishna-code&theme=tokyo-night&hide_border=true" alt="Activity graph" width="95%"/>
+  <img src="https://github-readme-activity-graph-sigma.vercel.app/graph?username=agungkrishna-code&theme=tokyo-night&hide_border=true" alt="Activity graph" width="95%"/>
 </div>
 
 ---
@@ -59,7 +59,7 @@ motto: "Belajar sedikit demi sedikit, setiap hari."
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agungkrishna-code&theme=tokyonight&no-frame=true&column=7" alt="Trophy"/>
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=agungkrishna-code&theme=tokyonight&no-frame=true&column=7" alt="Trophy"/>
 </div>
 
 ---
